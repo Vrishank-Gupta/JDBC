@@ -1,6 +1,4 @@
 # JDBC
-# A
-
 # Database Management System
 
 ```
@@ -8,12 +6,6 @@ Bachelor of Engineering (2016-2020)
 ```
 ```
 VRISHANK GUPTA (2016UCO1677)
-```
-```
-SIMARPREET SINGH SIKKA(2016UCO1697)
-```
-```
-SHIVAM GUPTA(2016UCO1693)
 ```
 ```
 COE 3
